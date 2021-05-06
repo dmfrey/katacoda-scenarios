@@ -1,0 +1,27 @@
+{
+    "title": "App Modernization Workshop",
+    "description": "Modernizing legacy applications to run at scale in the cloud",
+    "courses": 
+    [
+      {
+        "course_id": "introduction",
+        "title": "Introduction and Learning Objectives",
+        "description": "What this course is about"
+      },
+      {
+        "course_id": "common-problems",
+        "title": "Common Problems dealing with legacy code",
+        "description": "Why legacy code won't scale up to the cloud"
+      },
+      {
+        "course_id": "app-modernization",
+        "title": "What is App Modernization",
+        "description": "An introduction to app modernization, dealing with legacy code, and tools and techniques to begin moderinzing applications for the cloud"
+      },
+      {
+        "course_id": "technical-analysis-techniques",
+        "title": "How to asses the cloud-readiness of an application",
+        "description": "Some tools and techniques for assessing cloud-readiness in applications"
+      }
+    ]
+  }

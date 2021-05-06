@@ -1,0 +1,19 @@
+{
+    "title": "common-problems",
+    "description": "common-problems",
+    "difficulty": "beginner",
+    "time": "5 minutes",
+    "details": {
+        "steps": [
+            {
+                "title": "Step 1",
+                "text": "step1.md"
+            }
+
+        ],
+        "intro": {
+            "title": "Introduction",
+            "text": "intro.md"
+        }
+    }
+}

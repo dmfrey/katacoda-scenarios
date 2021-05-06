@@ -1,0 +1,19 @@
+{
+    "title": "technical-analysis-techniques",
+    "description": "technical-analysis-techniques",
+    "difficulty": "intermediate",
+    "time": "10 minutes",
+    "details": {
+        "steps": [
+            {
+                "title": "Step 1",
+                "text": "step1.md"
+            }
+
+        ],
+        "intro": {
+            "title": "Introduction",
+            "text": "intro.md"
+        }
+    }
+}
