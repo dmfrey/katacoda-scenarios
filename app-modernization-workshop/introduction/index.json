@@ -1,19 +1,20 @@
 {
-    "title": "What is App Modernization?",
-    "description": "Introduction to App Modernization",
+    "title": "What is this workshop?",
+    "description": "Introduction and learning objectives",
     "difficulty": "Beginner",
     "time": "5 minutes",
     "details": {
-        "steps": [
-            {
-                "title": "Step 1",
-                "text": "step1.md"
-            }
-
-        ],
         "intro": {
-            "title": "Introduction",
             "text": "intro.md"
+        },
+        "finish": {
+            "text": "outro.md"
         }
+    },
+    "environment": {
+        "uilayout": "terminal"
+    },
+    "backend": {
+        "imageid": "bash1804"
     }
 }
